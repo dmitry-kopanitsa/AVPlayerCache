@@ -1,0 +1,2 @@
+static NSString *mp4SourceURL = @"http://sample-videos.com/video/mp4/720/big_buck_bunny_720p_50mb.mp4";
+static NSString *m3u8SourceURL = @"http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8";

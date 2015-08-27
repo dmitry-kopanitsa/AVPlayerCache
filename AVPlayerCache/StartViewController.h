@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  StartViewController.h
 //  AVPlayerCache
 //
 //  Created by Dmitry on 23.08.15.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface StartViewController : UIViewController
 
 
 @end
